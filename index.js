@@ -14,10 +14,6 @@ console.log(textElems);
 //И внутри кавычек пишем название класса
 
 
-//Создать произвольную html разметку 
-//Найти один элемент 
-//Найти несколько эл
-
 
 textEl.textContent = 'Hello word'// innerText
 
